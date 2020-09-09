@@ -24,4 +24,4 @@ long
 as
 you
 are
-careful *
+careful*
