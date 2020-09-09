@@ -8,40 +8,40 @@
         Like this  
                 
 That
-means
+ means
 you
-can
+ can
 get
-creative
+ creative
 about
-how
+ how
 you
-format
+ format
 your
-plaintext. 
+ plaintext. 
 *as 
-long
+ long
 as
-you
+ you
 are
-careful*
+ careful*
 ```
 That
-means
+ means
 you
-can
+ can
 get
-creative
+ creative
 about
-how
+ how
 you
-format
+ format
 your
-plaintext. 
+ plaintext. 
 *as 
-long
+ long
 as
-you
+ you
 are
-careful*
+ careful*
 ```
