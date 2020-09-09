@@ -6,5 +6,5 @@
       + Double returns: 
         An empty line (two line breaks) will cause a new line to be written
         
-        Like this
+        Like this  
 Breaking out of lists
