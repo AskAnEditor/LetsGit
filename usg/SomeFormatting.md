@@ -4,8 +4,7 @@
 1. Line Breaks are __not__ accomplished with the ` <enter> ` or ` <return> ` key. Instead, markdown requires two spaces to denote the end of a line.
     + [Exceptions:](# "There always are!")
       + Double returns: 
-        Two empty lines will cause a new line / paragraph to be written. But it will also cause exiting of "Lists"
-        
+        Two empty lines will cause a new line to be written
         
         Like this
   
