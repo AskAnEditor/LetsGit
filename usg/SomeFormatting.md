@@ -18,8 +18,8 @@ how
 you
 format
 your
-plaintext. *
-as 
+plaintext. 
+*as 
 long
 as
 you
