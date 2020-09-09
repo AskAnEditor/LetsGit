@@ -7,4 +7,21 @@
         
         Like this  
                 
-Breaking out of lists
+That
+means
+you
+can
+get
+creative
+about
+how
+you
+format
+your
+plaintext. *
+as 
+long
+as
+you
+are
+careful *
