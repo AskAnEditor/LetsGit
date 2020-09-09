@@ -6,6 +6,6 @@
 ### Learn to Link
 
   + You'll need to [create](usg/NewFiles.md "or upload") a file to link to. 
-  + Then you can [link](usg/YourFile.md "hovertext here") to your file and add hovertext.
+  + Then you can [link](usg/SomeFormatting.md "hovertext here") to your file and add hovertext.
 
-      ` [link](YourFile.md "hovertext here") `
+      ` [link](folder/YourFile.md "hovertext here") `
