@@ -46,4 +46,4 @@ are
  careful*
 ```  
 2. __bold__, _italics_, ~~strikethrough~~
-  + ` __bold__, _italics_, ~~strikethrough~~ `
+  ` __bold__, _italics_, ~~strikethrough~~ `
